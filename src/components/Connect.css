@@ -1,0 +1,142 @@
+@import url('https://fonts.cdnfonts.com/css/marigold');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .connect{
+    padding: 70px 0 0 0; 
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .title{
+    width: 37rem;
+    text-align: center;
+  }
+
+  .title h1{
+    color: black; 
+    font-size: 3rem; 
+    font-family: 'Marigold', sans-serif;
+    font-weight: 700;
+  
+  }
+
+  .title p{
+    margin-top: 2rem;
+    color: black; 
+    font-size: 15px; 
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 20px 0;
+  }
+  
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .fa-map-marker, .fa-mobile, .fa-envelope {
+    font-size: 2rem;  
+    color: #ce9461;
+    margin-top: 2rem;
+  }
+
+  .row p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    font-size: 15px;
+    color: black; 
+    justify-content: center;
+  }
+
+  .row a {
+    color: black;
+    text-decoration: none;
+    justify-content: center;
+    font-size: 12px;
+  }
+
+  .subtitle {
+    text-align: center;
+  }
+
+  .input-areas{
+    padding: 50px 0;  
+    text-align: left;
+    font-size: 15px;
+    text-align: left;
+  }
+
+  .input-name, .input-subject, .input-email, .input-message{
+    width: 100%;
+    height: 60px;
+    padding: 8px 20px;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    font-size: 13px;
+    background: #F4EEE0; 
+    margin-bottom: 16px;
+  }
+
+  textarea {
+    background: #F4EEE0; 
+    margin-bottom: 16px;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    padding: 5px 5px;
+  }
+
+ .connect-btns .btn {
+    width: 120px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px 5px 5px 5px;
+    float: right;
+ }
+
+ @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+    .title {
+      width: 30rem;
+    }
+    textarea {
+      width: 100%;
+    }
+  }
+
+@media screen and (max-width:492px) {
+  .title {
+    width: 25rem;
+  }
+  textarea {
+    width: 100%;
+  }
+}
+
+@media screen and  (max-width:405px) {
+  .title {
+    width: 21rem;
+  }
+  textarea {
+    width: 100%;
+  }
+}
