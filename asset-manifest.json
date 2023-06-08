@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/work-website/static/css/main.4b6dcf3f.css",
-    "main.js": "/work-website/static/js/main.88ac07db.js",
+    "main.css": "/work-website/static/css/main.18a51ee3.css",
+    "main.js": "/work-website/static/js/main.b8de2971.js",
     "static/js/787.2bb5e25e.chunk.js": "/work-website/static/js/787.2bb5e25e.chunk.js",
+    "static/media/grad.jpg": "/work-website/static/media/grad.1e1b6d349694e866ebf5.jpg",
     "static/media/adventure.PNG": "/work-website/static/media/adventure.2b3d0ec51c88309cd143.PNG",
     "static/media/rc.png": "/work-website/static/media/rc.3569774b4ec008c7b73b.png",
     "static/media/croschell.PNG": "/work-website/static/media/croschell.43f22377fbd08ee9b0d4.PNG",
     "static/media/pizza.PNG": "/work-website/static/media/pizza.a41dac901fa004b68961.PNG",
     "static/media/restaurant.PNG": "/work-website/static/media/restaurant.2ea49792b9a6f62d7c04.PNG",
     "static/media/clearance.PNG": "/work-website/static/media/clearance.4e3d326145f5fd32d57b.PNG",
-    "static/media/me.jpg": "/work-website/static/media/me.3cdb333660f60348e2a2.jpg",
     "static/media/cologic.jpg": "/work-website/static/media/cologic.f68598fc8d09f5f5084c.jpg",
     "static/media/trio.PNG": "/work-website/static/media/trio.75fefed3697d1e493173.PNG",
     "static/media/counter.PNG": "/work-website/static/media/counter.e5572e7ea182a368d661.PNG",
     "index.html": "/work-website/index.html",
-    "main.4b6dcf3f.css.map": "/work-website/static/css/main.4b6dcf3f.css.map",
-    "main.88ac07db.js.map": "/work-website/static/js/main.88ac07db.js.map",
+    "main.18a51ee3.css.map": "/work-website/static/css/main.18a51ee3.css.map",
+    "main.b8de2971.js.map": "/work-website/static/js/main.b8de2971.js.map",
     "787.2bb5e25e.chunk.js.map": "/work-website/static/js/787.2bb5e25e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b6dcf3f.css",
-    "static/js/main.88ac07db.js"
+    "static/css/main.18a51ee3.css",
+    "static/js/main.b8de2971.js"
   ]
 }
