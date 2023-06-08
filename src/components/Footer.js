@@ -16,7 +16,7 @@ function Footer() {
           <div class='footer-link-items'>
             <h2>Elsewhere</h2>
             <Link to='https://github.com/kuschelljane' target='_blank'>GitHub</Link>
-            <Link to='https://drive.google.com/file/d/19L0NFFBbAI-Vk11gTlAvn56-78XqNrMH/view?usp=share_link' target='_blank'>Curriculum Vitae</Link>
+            <Link to='https://drive.google.com/file/d/1QOVClpb-0NtAAhtt8UiGpFvB80MkU06L/view?usp=sharing' target='_blank'>Curriculum Vitae</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
@@ -26,7 +26,7 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Links</h2>
-            <Link to='https://www.linkedin.com/in/kuschell-jane-400034181'target='_blank'><i class='fab fa-linkedin' />LinkedIn</Link>
+            <Link to='https://www.linkedin.com/in/kuschell-jane-amulong-400034181'target='_blank'><i class='fab fa-linkedin' />LinkedIn</Link>
             <Link to='https://www.upwork.com/freelancers/~0160bfaba66a47d656' target='_blank'><i class="fa fa-reply"  />Upwork</Link>
           </div>
         </div>

@@ -1,4 +1,4 @@
-@import url('https://fonts.cdnfonts.com/css/marigold');
+@import url('https://fonts.cdnfonts.com/css/lora');
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
 
@@ -31,8 +31,9 @@
     font-size: 1.8rem;
     display: flex;
     align-items: center;
-    font-family: 'Marigold', sans-serif;
+    font-family: 'Lora', sans-serif;
     font-weight: 700;
+
   }
   
   .nav-menu {

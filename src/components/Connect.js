@@ -7,7 +7,7 @@ function Connect() {
   return (
     <div className="connect">
       <div className="title">
-        <h1>Get in touch </h1>
+        <h1>Get in Touch </h1>
           <p>If you'd like to know more about my work or process, feel free to connect with me. Let's make your creative
             juices flow and concretise ideas that you currently have in mind.</p>
             <div className="row">
@@ -24,7 +24,7 @@ function Connect() {
                 <div className="column">
                     <i class="fa fa-envelope"></i>
                     <p>EMAIL</p>
-                    <a href="mailto:schellaneam@gmail.com">schellaneam@gmail.com</a>
+                    <a href="mailto:kuschelljaneamulong@gmail.com">kuschelljaneamulong@gmail.com</a>
                 </div>
               </div>
           <div className='input-areas'>

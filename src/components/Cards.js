@@ -33,7 +33,7 @@ function Cards() {
               src={require('../images/pizza.PNG')}
               text='A front-end website that is intended for pizza shops to showcase their various flavors and specialties.'
               label='React Next.JS Pizza Website'
-              path='https://kuschelljane.github.io/food-app/'
+              path=''
             />
             <CardItem
               src={require('../images/cologic.jpg')}
